@@ -1,0 +1,1 @@
+5df3a761af63fce6cf9417a450f806234657fc951ba5dbf876f31cf06bbcebeb  ./target/wasm32-unknown-unknown/release/gambling_test.wasm
